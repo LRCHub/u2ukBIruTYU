@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Bury Me in Sunlight",
+  "base_artist": "Wuthering Waves、jkinss、xBay、Montel Moore和VISION SOUND",
+  "createdAt": "2026-03-23T09:55:51.741246Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bury Me in Sunlight",
+      "artist": "Montel Moore",
+      "has_synced": true,
+      "path": "select/01_Bury_Me_in_Sunlight_Montel_Moore.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bury Me in Sunlight",
+      "artist": "Wuthering Waves - Topic",
+      "has_synced": true,
+      "path": "select/02_Bury_Me_in_Sunlight_Wuthering_Waves_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bury Me in Sunlight 葬我以日光",
+      "artist": "鳴潮, jkinss, xBay, Montel Moore & VISION SOUND",
+      "has_synced": true,
+      "path": "select/03_Bury_Me_in_Sunlight_葬我以日光_鳴潮,_jkinss,_xBay,_Montel_Moore_&_VISION_SOUND.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bury Me in Sunlight-Augusta X Rover - Metal Version",
+      "artist": "RamuShinri",
+      "has_synced": true,
+      "path": "select/04_Bury_Me_in_Sunlight-Augusta_X_Rover_-_Metal_Version_RamuShinri.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bury Me in Sunlight-Augusta X Rover (Metal Version)",
+      "artist": "RamuShinri, Ramushinri, RamuShinri",
+      "has_synced": true,
+      "path": "select/05_Bury_Me_in_Sunlight-Augusta_X_Rover_(Metal_Version)_RamuShinri,_Ramushinri,_RamuShinri.lrc"
+    }
+  ]
+}
